@@ -1,0 +1,21 @@
+- name: feature
+  color: "1D76DB"
+  description: Nueva funcionalidad o mejora visible para usuario.
+- name: bug
+  color: "D73A4A"
+  description: Error funcional que requiere corrección.
+- name: docs
+  color: "0075CA"
+  description: Cambios de documentación o guías de uso.
+- name: tests
+  color: "5319E7"
+  description: Cobertura, fixtures o validaciones automatizadas.
+- name: ci
+  color: "0E8A16"
+  description: Automatización, pipelines o integración continua.
+- name: ui
+  color: "FBCA04"
+  description: Ajustes visuales, estilos o experiencia de usuario.
+- name: maintenance
+  color: "BFDADC"
+  description: Tareas de mantenimiento técnico o dependencias.
